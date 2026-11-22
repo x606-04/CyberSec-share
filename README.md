@@ -1,1 +1,227 @@
-# share
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=CyberSec%20Resources&height=140&section=header"
+    alt="CyberSec Resources Header"
+    width="100%"
+  />
+</div>
+
+<h1 align="center">🛡️ CyberSec Resources</h1>
+
+<p align="center">
+A curated collection of <strong>571 cybersecurity tools</strong>, <strong>648 free TryHackMe labs</strong>, <strong>1,254 bug bounty writeups</strong>, <strong>46 AI & coding tools</strong>, and <strong>1,384 OSINT resources</strong> — organized, searchable, and ready to use.
+</p>
+
+<p align="center">
+<em>Built for penetration testers, bug bounty hunters, and security enthusiasts.</em>
+</p>
+
+<hr>
+
+<!-- ================= LIVE PREVIEW ================= -->
+<div align="center">
+<h2>🌐 Live Preview</h2>
+
+<p>
+🔗 <strong>
+<a href="https://x606.me/" target="_blank">
+Live Demo →
+</a>
+</strong>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Theme-Emerald_%26_Slate-10b981?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tools-571-38bdf8?style=for-the-badge">
+<img src="https://img.shields.io/badge/Free_Labs-648-34d399?style=for-the-badge">
+<img src="https://img.shields.io/badge/Writeups-1254-c084fc?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI_Tools-46-ffb86c?style=for-the-badge">
+<img src="https://img.shields.io/badge/OSINT-1384-ff6b6b?style=for-the-badge">
+<img src="https://img.shields.io/badge/Categories-162-a78bfa?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+</p>
+
+</div>
+
+<hr>
+
+<!-- ================= PAGES ================= -->
+
+## 📄 Pages
+
+| Page                       | Description                                                                       |
+| -------------------------- | --------------------------------------------------------------------------------- |
+| **🏠 Home**                | Landing page and overview of the project and its features                         |
+| **🛡️ CyberSec Resources**  | 571 tools across 15 categories (hashing, networking, pentesting, etc.)            |
+| **💻 Free Labs**           | 648 free TryHackMe rooms across 26 categories (Intro → Insane difficulty)         |
+| **🐛 Bug Bounty Writeups** | 1,254 real-world writeups across 43 categories (XSS, SSRF, IDOR, RCE, CSRF, etc.) |
+| **🤖 AI Tools**            | 46 AI & coding tools across 6 categories (AI Models, Coding Agents, Skills, etc.) |
+| **🕵️ OSINT Arsenal**       | 1,384 OSINT tools across 72 categories (Breaches, Dorks, Domain Lookup, etc.)     |
+| **🏆 Top 100 Tools**       | A focused collection of 100 essential cybersecurity tools                        |
+| **🧪 HTB & AD Labs**       | Hack The Box machines and Active Directory practice resources                     |
+| **🎯 Bounty Platforms**    | Bug bounty programs, VDPs, and security research platforms                        |
+
+<hr>
+
+<!-- ================= CATEGORIES ================= -->
+
+## 📂 Resource Categories
+
+| #   | Category                               | Example Tools                                |
+| --- | -------------------------------------- | -------------------------------------------- |
+| 🏴  | **CTF & Learning Platforms**           | TryHackMe, Hack The Box Academy, PortSwigger |
+| 📚  | **Security Resources & Wordlists**     | SecLists, OAuth2 Threat Model                |
+| 🕵️  | **OSINT & Reconnaissance**             | Sherlock, OSINT Framework, Who.is, crt.sh    |
+| 📧  | **Email Intelligence**                 | Hunter.io, Snov.io, Prospeo                  |
+| 🌐  | **Network, DNS & Infrastructure**      | Nmap, Wireshark, Shodan, Snort               |
+| ⚠️  | **Vulnerability Databases**            | Exploit-DB, CVE, NVD, VulDB                  |
+| 🎯  | **Penetration Testing & Exploitation** | Burp Suite, Metasploit, Sqlmap, Nuclei, ffuf |
+| 🔓  | **Data Breach & Password Security**    | DeHashed, Password Generator                 |
+| 🔐  | **Encoding, Decoding & Crypto**        | CyberChef, Base64, JWT.io, Dogbolt           |
+| 🧬  | **Hash Analysis & Cracking**           | CrackStation, Hashcat, John the Ripper       |
+| 🦠  | **Malware Analysis**                   | VirusTotal, ANY.RUN, MobSF                   |
+| 🖼️  | **Steganography & Image Analysis**     | Aperi'Solve, StegSeek, Steghide              |
+| 🔧  | **System & Process Analysis**          | Sysinternals, Autoruns, Process Explorer     |
+| 🧩  | **Browser Extensions**                 | FoxyProxy, Wappalyzer, uBlock Origin, DotGit |
+| 📝  | **Reporting & Note Taking**            | Obsidian, Notion, XMind                      |
+| 🛠️  | **Basic Security Tools**               | ProjectDiscovery, favirecon, ppfuzz, bbr     |
+
+## 🧪 Free Labs Categories
+
+> 26 categories covering Intro, Basics, Linux, Windows, Networking, Web, Scripting, Recon, Tooling, Cryptography, Steganography, Forensics, PCAP Analysis, Reverse Engineering, Malware Analysis, Buffer Overflow, Exploit Development, Privilege Escalation, Active Directory, Container Security, Android, Wi-Fi Hacking, CTF, Special Events, Misc, and AI.
+
+> All TryHackMe room links belong to TryHackMe.
+> This website only indexes publicly available links for educational purposes.
+
+## 🐛 Bug Bounty Writeups Categories
+
+> 43 categories covering General Writeups, XSS, SSRF, IDOR, RCE, CSRF, SQL Injection, Account Takeover, Authentication Bypass, Prototype Pollution, Information Disclosure, HTTP Request Smuggling, Web Cache Poisoning, CORS Misconfiguration, Open Redirect, File Upload, Race Condition, Privilege Escalation, Denial of Service, Business Logic, and many more.
+
+> Writeup links belong to their respective authors and platforms.
+> This website only indexes publicly available links for educational purposes.
+
+## 🤖 AI Tools Categories
+
+> 6 categories covering AI Models & Chatbots, AI Coding Agents & IDEs, Agent Skills & Frameworks, General Coding Tools, AI Security & Pentesting Tools, and Videos & Tutorials.
+
+<hr>
+
+<!-- ================= FEATURES ================= -->
+
+## ✨ Features & What's New
+
+- 🎨 **Redesigned Bento Grid UI** — Fully responsive asymmetric bento grid with custom visual dark-tech backgrounds for all cards.
+- 🌗 **Light & Dark Modes** — Beautiful glassmorphism UI with seamless theme toggling and unified Emerald & Zinc color scheme.
+- 🔍 **Integrated Advanced Search** — Powerful real-time search and filtering seamlessly integrated into the page navigation headers.
+- 🧭 **Sticky Navigation Bar** — Quick-jump categories with scroll-spy highlighting.
+- 🏷️ **Difficulty Tags & Skills** — Interactive tags for OSINT, CVEs, and TryHackMe lab difficulties.
+- 🪟 **Tool Modal Popup** — Click any card for tool details, tags, and direct links.
+- ✨ **Mouse-follow Glow** — Subtle cursor-tracking light effect for enhanced interactivity.
+- 🛡️ **Secure by Design** — Built-in XSS prevention and sanitized data rendering.
+- ⚡ **Optimized Performance** — Intelligent favicon caching and lightning-fast DOM visibility toggling.
+- ♿ **Accessible** — Fully keyboard navigable with focus trapping, skip-nav, and ARIA live regions.
+- 📱 **Fully Responsive** — Works smoothly on desktop, tablet, and mobile browsers.
+- 📦 **No Dependencies** — Pure HTML5, Vanilla CSS, and modular Vanilla JavaScript.
+- 🐛 **Bug Bounty Writeups** — 1,254 real-world writeups across 43 vulnerability categories with toast notifications for broken links.
+- 🤖 **AI Tools & Agents** — A dedicated section for AI models, coding agents, agent skills, and pentesting AI frameworks.
+
+## 🆕 Recent Updates
+
+- **🎨 Premium Visual Redesign:** Migrated from purple accenting to a unified, cybernetic Emerald Green (`#10b981`) and deep Slate scheme.
+- **🏗️ Bento Grid & Hero Split:** Overhauled homepage layout with an asymmetrical bento grid using custom dark-tech illustrations, alongside a split hero section showing a terminal simulator.
+- **🚀 Performance Overhaul:** Refactored DOM rendering to use single-pass string injections, eliminating layout thrashing and drastically improving load times.
+- **💅 Clean Typography & Nav:** Removed legacy cursive fonts and emoji navigation buttons, utilizing Outfit and JetBrains Mono fonts for coding tags, stats, and text-only link cards.
+- **♿ Accessibility & Contrast:** Enhanced light/dark contrast (especially hero text gradients) and unified modal popups with dark slate overlays.
+
+<hr>
+
+<!-- ================= STRUCTURE ================= -->
+
+## 📁 Project Structure
+
+```
+CyberSec-Resources/
+├── index.html                  # Project Home page
+├── resources.html              # CyberSec Resources page
+├── osint.html                  # OSINT Arsenal page
+├── free-labs.html              # Free Labs page
+├── bug-bounty-writeups.html    # Bug Bounty Writeups page
+├── top-100-tools.html          # Top 100 cybersecurity tools
+├── htb-labs.html               # Hack The Box & Active Directory labs
+├── bounty-platforms.html       # Bug bounty platforms and programs
+├── ai-tools.html               # AI & Coding Tools page
+├── assets/
+│   └── x606-logo1.webp        # Site logo
+├── css/
+│   ├── cyber-links.css         # Shared styles
+│   ├── sidebar.css             # Sidebar styles
+│   ├── main.css                # Home page specific styles & layout overrides
+│   ├── theme-light.css         # Light mode theme variables & contrast overrides
+│   └── writeup-toast.css       # Writeup broken link toast styles
+├── js/
+│   ├── main.js                 # Shared render engine (lazy favicons, search & filter)
+│   └── theme-toggle.js         # Theme switching with localStorage persistence & transitions
+├── data/
+│   ├── resources.data.js       # Tools data (571 tools)
+│   ├── osint.data.js           # OSINT links & categories (1,384 resources)
+│   ├── rooms.data.js           # TryHackMe rooms (Intro + Easy)
+│   ├── rooms.medium-hard.js    # TryHackMe rooms (Medium → Insane)
+│   ├── free-labs.data.js       # Category grouper for labs
+│   ├── writeups.data.js        # Bug bounty writeups (1,254 writeups)
+│   └── ai.data.js              # AI tools & agents (46 tools)
+├── LICENSE
+└── README.md
+```
+
+<hr>
+
+<!-- ================= TECH ================= -->
+
+## 🛠️ Tech Stack
+
+| Layer         | Technology                                |
+| ------------- | ----------------------------------------- |
+| **Structure** | HTML5 (semantic)                          |
+| **Styling**   | Vanilla CSS, CSS Variables, Glassmorphism |
+| **Logic**     | Vanilla JavaScript (no frameworks)        |
+| **Hosting**   | GitHub Pages                              |
+| **Icons**     | Google Favicons API + Emoji               |
+
+<hr>
+
+## Acknowledgements
+
+The OSINT resources included in this project are based in part on the awesome-osint repository by jivoi:
+https://github.com/jivoi/awesome-osint
+
+Thanks to the original author and all contributors.
+
+<hr>
+
+<!-- ================= AUTHOR ================= -->
+<h2 align="center"> 👤 Author </h2>
+
+<p align="center">
+<strong>x606</strong><br>
+Penetration Testing Enthusiast<br>
+ • Offensive Security • Red Team •
+</p>
+<p align="center">
+🔗 <a href="https://www.linkedin.com/in/ismailabdelhameed">LinkedIn</a> · 🐙 <a href="https://github.com/xismail606">GitHub</a>
+</p>
+
+<hr>
+
+<p align="center">
+🔒 <em>Stay safe, stay curious — Built for security professionals</em>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"
+    alt="GitHub Footer"
+    width="100%"
+  />
+</div>
